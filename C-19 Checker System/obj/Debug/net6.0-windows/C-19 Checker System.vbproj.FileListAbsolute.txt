@@ -1,0 +1,22 @@
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\bin\Debug\net6.0-windows\C-19 Checker System.exe
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\bin\Debug\net6.0-windows\C-19 Checker System.deps.json
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\bin\Debug\net6.0-windows\C-19 Checker System.runtimeconfig.json
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\bin\Debug\net6.0-windows\C-19 Checker System.dll
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\bin\Debug\net6.0-windows\C-19 Checker System.pdb
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C-19 Checker System.vbproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C_19_Checker_System.Form1.resources
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C_19_Checker_System.Form2.resources
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C_19_Checker_System.Form3.resources
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C_19_Checker_System.Form4.resources
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C-19 Checker System.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C-19 Checker System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C-19 Checker System.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C-19 Checker System.AssemblyInfo.vb
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C-19 Checker System.vbproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C-19 Checker System.dll
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\refint\C-19 Checker System.dll
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C-19 Checker System.pdb
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C-19 Checker System.genruntimeconfig.cache
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\ref\C-19 Checker System.dll
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C_19_Checker_System.Form5.resources
+C:\Users\hp\source\repos\C-19 Checker System\C-19 Checker System\obj\Debug\net6.0-windows\C_19_Checker_System.Resources.resources
